@@ -34,6 +34,20 @@
             </ul>
             <p>Computing has had a profound impact on society, transforming the way we live, work, and communicate. It has enabled rapid global connectivity, facilitated e-commerce, and improved healthcare outcomes.</p>
         </section>
+        <section>
+            <h2>Introduction to IT basics</h2>
+            <p>IT basics include the fundamental concepts and technologies that form the foundation of modern computing.</p>
+            <img src="images/it-basics.jpg" alt="IT Basics">
+            <ul>
+                <li>Hardware: CPU, Memory, Storage</li>
+                <li>Software: Operating Systems, Applications</li>
+                <li>Networking: Internet, Protocols, Devices</li>
+                <li>Data: Types, Storage, Security</li>
+            </ul>
+        </section>
     </main>
+    <footer>
+        <p>&copy; 2023 [Jazul, Bianca]</p>
+    </footer>
 </body>
-</html>
+</html>    
